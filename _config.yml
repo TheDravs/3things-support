@@ -1,2 +1,4 @@
-markdown: kramdown
+title: 3things Journal Documentation
+description: Documentation officielle de 3things Journal
 theme: jekyll-theme-cayman
+markdown: kramdown
